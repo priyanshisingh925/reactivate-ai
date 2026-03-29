@@ -25,6 +25,7 @@ That's it. The script will:
 
 **To stop:** Press `Ctrl+C` in the terminal window.
 
+
 ---
 
 ## What This Project Does
