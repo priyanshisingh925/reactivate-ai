@@ -60,11 +60,7 @@ That's it. The script will:
 | **Reactivation** | Account table with AI scores, status updates, add single account, bulk CSV import |
 
 ---
-## Test Change
-Added by Priyanshi
 
-## Test Change
-Added by Priyanshi
 
 ## Folder Structure
 
