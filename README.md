@@ -4,8 +4,8 @@
 ---
 ## 👩‍💻 Contributors
 
-- Priyanshi Singh  
-- Mukhul
+-> Priyanshi Singh  
+-> Mukhul
 
 ## ▶ HOW TO RUN
 
