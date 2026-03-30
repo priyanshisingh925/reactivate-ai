@@ -2,6 +2,10 @@
 ### AI-Powered Dormant Account Reactivation Platform
 
 ---
+## 👩‍💻 Contributors
+
+- Priyanshi Singh  
+- Mukhul
 
 ## ▶ HOW TO RUN
 
